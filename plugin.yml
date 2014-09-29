@@ -1,6 +1,7 @@
 name: TestPlugin
 version: 1.0
 main: me.ThePheonixBlader.BukkitPlugin.Main
+authors: [packeretteswan, taahanis]
 commands:
     test:
         description: this is a command!
